@@ -1296,10 +1296,3 @@ Configure webhooks to receive real-time notifications:
 The API uses URL versioning. Current version: `v1`
 
 Future versions will maintain backwards compatibility for at least 6 months after deprecation notice.
-
-## Support
-
-- Documentation: https://docs.sporeprotocol.io
-- Discord: https://discord.gg/sporeprotocol
-- Email: api-support@sporeprotocol.io
-- Status Page: https://status.sporeprotocol.io
