@@ -50,19 +50,8 @@ info:
     ```
     
   version: 1.0.0
-  contact:
-    name: Spore Protocol Support
-    email: support@sporeprotocol.io
-    url: https://sporeprotocol.io
-  license:
-    name: MIT
-    url: https://opensource.org/licenses/MIT
-
 servers:
-  - url: https://api.sporeprotocol.io/api/v1
-    description: Production server
-  - url: https://api-staging.sporeprotocol.io/api/v1
-    description: Staging server
+
   - url: http://localhost:3000/api/v1
     description: Local development
 
